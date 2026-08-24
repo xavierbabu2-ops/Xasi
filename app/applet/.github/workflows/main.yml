@@ -19,7 +19,7 @@ jobs:
       with:
         distribution: 'temurin'
         java-version: '17'
-        cache: ''
+        cache: false
 
     - name: Build Debug APK
       run: ./gradlew assembleDebug
