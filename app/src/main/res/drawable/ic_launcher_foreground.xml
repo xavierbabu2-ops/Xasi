@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Glowing Tech Ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:fillColor="#200B132B"
+        android:pathData="M54,24 A30,30 0 1,1 53.9,24 Z" />
+
+    <!-- Central AI Neural Core Nodes -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M54,34 L57,40 L63,43 L57,46 L54,52 L51,46 L45,43 L51,40 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,42 L55.5,45 L58.5,46.5 L55.5,48 L54,51 L52.5,48 L49.5,46.5 L52.5,45 Z" />
+
+    <!-- Bottom Banner / Shield Plaque with "xasi" Letters -->
+    <path
+        android:fillColor="#1C2541"
+        android:pathData="M24,66 L84,66 L80,78 L28,78 Z" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M24,66 L84,66 L80,78 L28,78 Z" />
+
+    <!-- Letter X -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M35,69 L37,69 L40,73 L43,69 L45,69 L42,73.5 L45,78 L43,78 L40,74 L37,78 L35,78 L38,73.5 Z" />
+
+    <!-- Letter A -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,78 L47,75 H51 L50,78 H48.5 Z M48.5,73.5 L49,71.5 L49.5,73.5 Z" />
+
+    <!-- Letter S -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M56,69 H60 C61,69 61.5,69.5 61.5,70.5 C61.5,71.5 61,72 60,72 H57.5 C56.5,72 56,72.5 56,73.5 C56,74.5 56.5,75 57.5,75 H61 V76.5 H56 Z" />
+
+    <!-- Letter I -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M64,69 H66 V78 H64 Z" />
+
+</vector>
+

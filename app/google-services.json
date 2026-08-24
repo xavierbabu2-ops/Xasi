@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "29684796516",
+    "project_id": "my-tnpa-project",
+    "storage_bucket": "my-tnpa-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29684796516:android:webstudioapp",
+        "android_client_info": {
+          "package_name": "com.aistudio.webstudio.kypmrx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29684796516-0udcujrrf1qhjcnbv53mujfn9flfq2of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmoGS6J5pyTUxZt1VAWM_WNbD1bF0puJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
