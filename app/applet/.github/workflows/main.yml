@@ -20,11 +20,6 @@ jobs:
         distribution: 'temurin'
         java-version: '17'
 
-    - name: Setup Gradle
-      uses: gradle/actions/setup-gradle@v3
-      with:
-        cache-enabled: false
-
     - name: Build Debug APK
       run: ./gradlew assembleDebug
 
@@ -33,3 +28,4 @@ jobs:
       with:
         name: xasi-debug-apk
         path: app/build/outputs/apk/debug/app-debug.apk
+
